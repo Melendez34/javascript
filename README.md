@@ -1,9 +1,9 @@
-# **javascript**
+# Javascript 
 
-## **Ejercicios Javascript (Generation)**
+### Ejercicios Javascript (Generation)
 
 - variables
-- let var const
+    - let var const
 - operadores
 - funciones
 - tipos de Datos
